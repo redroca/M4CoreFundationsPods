@@ -10,5 +10,10 @@ target 'M4CoreFoundation_Example' do
   pod 'Expecta'
   pod 'FBSnapshotTestCase'
   pod 'Expecta+Snapshots'
+  pod 'MJRefresh'
+  pod 'AFNetworking'
+  pod 'YYModel'
+  pod 'YYWebImage'
+  pod 'YYCategories'
   end
 end
